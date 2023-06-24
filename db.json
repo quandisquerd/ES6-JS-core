@@ -1,0 +1,390 @@
+{
+  "menu": [
+    {
+      "name": "Home",
+      "path": "/#/",
+      "icon": "<i class='fa-solid fa-house'></i>"
+    },
+    {
+      "name": "About",
+      "path": "/#/about",
+      "icon": "<<i class='fa-solid fa-address-card'></i>"
+    },
+    {
+      "name": "Post",
+      "path": "/#/posts",
+      "icon": "<i class='fa-solid fa-pager'></i>"
+    },
+    {
+      "name": "Project",
+      "path": "/#/project",
+      "icon": "<i class='fa-solid fa-rectangle-history'></i>"
+    },
+    {
+      "name": "Contact",
+      "path": "/#/contact",
+      "icon": "<i class='fa-solid fa-address-book'></i>"
+    }
+  ],
+  "posts": [
+    {
+      "title": "PHP là gì?",
+      "date": "02/22/2023  01:39:12",
+      "content": "Ngôn ngữ PHP là từ viết tắt của Personal Home Page (hiện nay là Hypertext Preprocessor). Thuật ngữ này chỉ chuỗi ngôn ngữ kịch bản hay mã lệnh, phù hợp để phát triển cho các ứng dụng nằm trên máy chủ.",
+      "content_type": "Ngôn ngữ PHP là từ viết tắt của Personal Home Page (hiện nay là Hypertext Preprocessor). Thuật ngữ này chỉ chuỗi ngôn ngữ kịch bản hay mã lệnh, phù hợp để phát triển cho các ứng dụng nằm trên máy chủ.",
+      "img": [
+        "https://res.cloudinary.com/dw6wgytc3/image/upload/v1677004753/ECMA/iurguoxkettzdoscbuat.jpg"
+      ],
+      "categoryId": "2",
+      "id": 1,
+      "desc": "Người ta thường sử dụng PHP trong việc xây dựng và phát triển các ứng dụng website chạy trên máy chủ. Mã lệnh PHP có thể nhúng được vào trang HTML bằng cách sử dụng cặp thẻ PHP.  Nhờ đó, website bạn phát triển dễ dàng kết nối được với các website khác trên hệ thống mạng internet.  PHP cũng là ngôn ngữ lập trình mã nguồn mở và miễn phí. PHP tương thích với nhiều nền tảng khác nhau như Windows, MacOS và Linux, v.v.  Đa phần các trang website bạn đang sử dụng hàng ngày để học tập, làm việc và giải trí đều sử dụng ngôn ngữ lập trình PHP. Chẳng hạn như Facebook, Pinterest, Wikipedia, WordPress, v.v.  Ngôn ngữ lập trình PHP được đánh giá là dễ đọc. Do vậy, cũng dễ hiểu tại sao nó lại trở thành ngôn ngữ được nhiều bạn trẻ ưu tiên lựa chọn học trước khi bắt đầu vào nghề."
+    },
+    {
+      "title": "CSS là gì?",
+      "date": "02/22/2023  01:39:39",
+      "content": "CSS là viết tắt của Cascading Style Sheets, một ngôn ngữ thiết kế đơn giản, xử lý một phần giao diện của trang web. CSS mô tả cách các phần tử HTML hiển thị trên màn hình và các phương tiện khác.",
+      "content_type": "CSS là viết tắt của Cascading Style Sheets, một ngôn ngữ thiết kế đơn giản, xử lý một phần giao diện của trang web. CSS mô tả cách các phần tử HTML hiển thị trên màn hình và các phương tiện khác.",
+      "img": [
+        "https://res.cloudinary.com/dw6wgytc3/image/upload/v1677004780/ECMA/uo02nc46rjno3qkvam1d.jpg"
+      ],
+      "categoryId": "1",
+      "id": 2,
+      "desc": "CSS là viết tắt của Cascading Style Sheets, một ngôn ngữ thiết kế đơn giản, xử lý một phần giao diện của trang web. CSS mô tả cách các phần tử HTML hiển thị trên màn hình và các phương tiện khác.  Sử dụng CSS, bạn có thể kiểm soát màu chữ, cỡ chữ, kiểu chữ, khoảng cách giữa các đoạn văn bản, kích thước của các thành phần trên trang web, màu nền, thiết kế bố cục và cách trang web hiển thị trên những màn hình có kích thước khác nhau cũng như hàng loạt hiệu ứng khác.  CSS rất hữu ích và tiện lợi. Nó có thể kiểm soát tất cả các trang trên một website.  Các stylesheet ngoài được lưu trữ dưới dạng các tập tin .CSS. CSS được kết hợp với ngôn ngữ đánh dấu HTML hoặc XHTML.  Ví dụ về CSS - một trang HTML với nhiều kiểu cách khác nhau  Dưới đây là ví dụ về một trang HTML hiển thị với 4 stylesheet khác nhau."
+    },
+    {
+      "title": "HTML là gì?",
+      "date": "02/22/2023  01:34:07",
+      "content": "HTML là từ viết tắt của Hypertext Markup Language, là sự kết hợp của Hypertext và Markup, hay còn được gọi là ngôn ngữ siêu văn bản. HTML có chức năng giúp người dùng xây dựng và cấu trúc các phần trong trang web hoặc ứng dụng, thường được sử dụng trong phân chia các đoạn văn, heading, link, blockquotes,…",
+      "content_type": "HTML là từ viết tắt của Hypertext Markup Language, là sự kết hợp của Hypertext và Markup, hay còn được gọi là ngôn ngữ siêu văn bản. HTML có chức năng giúp người dùng xây dựng và cấu trúc các phần trong trang web hoặc ứng dụng, thường được sử dụng trong phân chia các đoạn văn, heading, link, blockquotes,…",
+      "img": [
+        "https://res.cloudinary.com/dw6wgytc3/image/upload/v1677004447/ECMA/xjhdqb7gxln2vjithoew.jpg"
+      ],
+      "categoryId": "2",
+      "id": 3,
+      "desc": "Phần khai báo chuẩn của html, xhtml. Có cấu trúc là <!Doctype>. Phần này cho người dùng biết được trình duyệt đang sử dụng hiện đang dùng phiên bản HTML nào. Trên trang web hiện đang rất nhiều loại HTML khác nhau và mỗi trình duyệt chỉ một loại HTML nhất định.  Phần tiêu đề: Phần khai báo ban đầu, khai báo về về meta, little, javascript, css,…  Phần này có cấu trúc bắt đầu bằng thẻ <head> và kết thúc bởi thẻ <head>. Đây là phần chứa tiêu đề và tiêu đề được hiển thị trên thanh điều hướng của trang web. Cụ thể, tiêu đề là phần nội dung nằm giữa cặp thẻ <title> và </title>. Bên cạnh đó phần tiêu đề còn chứa các khai báo có thông tin nhằm phục vụ SEO.  Phần thân: Phần chứa nội dung của trang web, là nơi hiển thị nội dung của trang web. Phần này nằm phía sau tiêu đề, bao gồm các thông tin mà bạn muốn hiển thị trên trang web bao gồm văn bản, hình ảnh và các liên kết. Phần thân bắt đầu bằng thẻ <body> và kết thúc bằng thẻ </body>.  Thẻ cặp nằm ngoài cùng, cả phần tiêu đề và phần thân đều phải nằm trong cặp thẻ <html> và </html>. Đây là cặp thẻ nằm ngoài cùng, cặp thẻ này có nhiệm vụ bao hết nội dung của trang web lại.Cloudstarter12 Ưu nhược điểm của HTML Hiểu được khái niệm HTML là gì, tầm quan trọng và cấu trúc của HTML và hoạt động của HTML trong hoạt động và sử dụng trang web. Tuy nhiên, bên cạnh những chức năng tuyệt vời của HTML cũng tồn tại những ưu điểm, nhược điểm.  Ưu điểm HTML được tạo ra với mục đích tạo bố cục và cấu trúc cho trang web. Vậy ưu điểm của HTML là gì?  HTML được ra đời từ rất lâu, do đó HTML có nguồn tài nguyên khổng lồ, hỗ trợ một cộng đồng người dùng lớn. Bên cạnh đó, cộng đồng HTML ngày càng phát triển trên thế giới. Mã nguồn của HTML là mã nguồn mở, do đó người dùng có thể sử dụng hoàn toàn miễn phí. HTML được sử dụng và được sử dụng trên nhiều trình duyệt được nhiều người dùng ưa chuộng hiện nay như Internet Explorer, Chrome, FireFox, Cốc cốc,… Học và tìm hiểu HTML đơn giản nên người học dễ dàng nắm được kiến thức và vận dụng trong xây dựng trang web căn bạn. HTML được quy định theo một tiêu chuẩn nhất định nên việc markup sẽ trở nên gọn gàng, đồng nhất bởi HTML được vận hành bởi World Wide Web Consortium (W3C). HTML được thực hiện dễ dàng bởi HTML được tích hợp nhiều ngôn ngữ khác nhau như PHP, Java, NodeJs, Ruby,…Điều này sẽ giúp tạo thành một website hoàn chỉnh với nhiều tính năng."
+    },
+    {
+      "title": "Javascript là gì?",
+      "date": "02/22/2023  01:34:19",
+      "content": "Javascript chính là một ngôn ngữ lập trình web rất phổ biến ngày nay. Javascript được tích hợp đồng thời nhúng vào HTML để hỗ trợ cho website trở nên sống động hơn. Chúng cũng đóng vai trò tương tự như một phần của website, cho phép Client-side Script từ người dùng tương tự máy chủ (Nodejs) để tạo ra những website động.",
+      "content_type": "Javascript chính là một ngôn ngữ lập trình web rất phổ biến ngày nay. Javascript được tích hợp đồng thời nhúng vào HTML để hỗ trợ cho website trở nên sống động hơn. Chúng cũng đóng vai trò tương tự như một phần của website, cho phép Client-side Script từ người dùng tương tự máy chủ (Nodejs) để tạo ra những website động.",
+      "img": [
+        "https://res.cloudinary.com/dw6wgytc3/image/upload/v1677004460/ECMA/jezg1jibigqamryogfhp.jpg"
+      ],
+      "categoryId": "2",
+      "id": 4,
+      "desc": "Bên cạnh việc tìm hiểu javascript là ngôn ngữ gì thì chúng được sử dụng để làm gì cũng rất quan trọng. Việc nắm bắt được mục đích của ngôn ngữ đặc biệt này sẽ giúp bạn dễ dàng sử dụng chúng hơn trong công việc. Cụ thể như sau:  Thay đổi nội dung HTML: Một trong số nhiều phương thức HTML JavaScript chính là getElementById (). Chúng được sử dụng để tìm một phần tử của HTML với id =”demo” và dùng để thay đổi nội dung của phần từ (Internal HTML) sang thành “Hello JavaScript” Thay đổi giá trị thuộc tính HTML: Tổng quan về javascript còn có thể sử dụng để thay đổi các giá trị của thuộc tính. Ví dụ: thay đổi thuộc tính src (source) của tag<img>. Công dụng của JavascriptCông dụng của Javascript Thay đổi kiểu HTML: Đây chính là một hoạt động biến thể của việc thay đổi thuộc tính của HTML ở trên. Ví dụ: document.getElementById(‘demo’).style.fontSize = ’35px; Ẩn các phần tử HTML: Một hoạt động tiếp theo là Javascript có thể ẩn được các phần tử HTML. Chúng có thể được thực hiện thông qua hoạt động thay đổi kiểu hiển thị các phần tử HTML. Hiển thị các phần tử HTML: Một điểm đặc biệt là JavaScript có thể hiển thị được các yếu tố HTML ẩn. Đồng thời, cũng có thể thực hiện được thông qua cách thay đổi kiểu hiển thị phần tử.  Ưu nhược điểm của ngôn ngữ lập trình Javascript  Là một ngôn ngữ lập trình rất phổ biến hiện nay, Javascript có cho mình rất nhiều ưu điểm nổi bật. Tuy nhiên, bên cạnh những ưu điểm đó thì nhược điểm của ngôn ngữ lập trình này cũng cần được lưu ý.  Ưu điểm Một số ưu điểm nổi bật của ngôn ngữ lập trình JavaScript như sau:  Những ưu điểm nổi trội của ngôn ngữ lập trìnhNhững ưu điểm nổi trội của ngôn ngữ lập trình Chương trình rất dễ học. Những lỗi Javascript rất dễ để phát hiện, từ đó giúp bạn sửa lỗi một cách nhanh chóng hơn.  Những trình duyệt web có thể dịch thông qua HTML mà không cần sử dụng đến một compiler. JS có thể hoạt động ở trên nhiều nền tảng và các trình duyệt web khác nhau. Được các chuyên gia đánh giá là một loại ngôn ngữ lập trình nhẹ và nhanh hơn nhiều so với các ngôn ngữ lập trình khác.  JS còn có thể được gắn trên một số các element hoặc những events của các trang web.  Những website có sử dụng JS thì chúng sẽ giúp cho trang web đó có sự tương tác cũng như tăng thêm nhiều trải nghiệm mới cho người dùng.  Người dùng cũng có thể tận dụng JS với mục đích là để kiểm tra những input thay vì cách kiểm tra thủ công thông qua hoạt động truy xuất database.  Giao diện của ứng dụng phong phú với nhiều thành phần như Drag and Drop, Slider để cung cấp đến cho người dùng một Rich Interface (giao diện giàu tính năng).  Giúp thao tác với người dùng phía Client và tách biệt giữa các Client với nhau."
+    },
+    {
+      "title": "Java là gì?",
+      "date": "02/22/2023  01:34:30",
+      "content": "Java là một trong những ngôn ngữ lập trình hướng đối tượng. Nó được sử dụng trong phát triển phần mềm, trang web, game hay ứng dụng trên các thiết bị di động.",
+      "content_type": "Java là một trong những ngôn ngữ lập trình hướng đối tượng. Nó được sử dụng trong phát triển phần mềm, trang web, game hay ứng dụng trên các thiết bị di động.",
+      "img": [
+        "https://res.cloudinary.com/dw6wgytc3/image/upload/v1677004472/ECMA/hqymybk42aee3pipegei.jpg"
+      ],
+      "categoryId": "2",
+      "id": 5,
+      "desc": "Một chương trình viết bằng ngôn ngữ Java có thể chạy tốt ở nhiều môi trường khác nhau. Gọi là khả năng “cross-platform”. Khả năng độc lập phần cứng và hệ điều hành được thể hiện ở 2 cấp độ là cấp độ mã nguồn và cấp độ nhị phân.  Ở cấp độ mã nguồn: Kiểu dữ liệu trong Java nhất quán cho tất cả các hệ điều hành và phần cứng khác nhau. Java có riêng một bộ thư viện để hỗ trợ vấn đề này. Chương trình viết bằng ngôn ngữ Java có thể biên dịch trên nhiều loại máy khác nhau mà không gặp lỗi.  Ở cấp độ nhị phân: Một mã biên dịch có thể chạy trên nhiều nền tảng khác nhau mà không cần dịch lại mã nguồn. Tuy nhiên cần có Java Virtual Machine để thông dịch đoạn mã này.  Ngôn ngữ thông dịch Ngôn ngữ lập trình thường được chia ra làm 2 loại (tùy theo các hiện thực hóa ngôn ngữ đó) là ngôn ngữ thông dịch và ngôn ngữ biên dịch.  Thông dịch (Interpreter) : Nó dịch từng lệnh rồi chạy từng lệnh, lần sau muốn chạy lại thì phải dịch lại. Biên dịch (Compiler): Code sau khi được biên dịch sẽ tạo ra 1 file thường là .exe, và file .exe này có thể đem sử dụng lại không cần biên dịch nữa. Ngôn ngữ lập trình Java thuộc loại ngôn ngữ thông dịch. Chính xác hơn, Java là loại ngôn ngữ vừa biên dịch vừa thông dịch. Cụ thể như sau  Khi viết mã, hệ thống tạo ra một tệp .java. Khi biên dịch mã nguồn của chương trình sẽ được biên dịch ra mã byte code. Máy ảo Java (Java Virtual Machine) sẽ thông dịch mã byte code này thành machine code  (hay native code) khi nhận được yêu cầu chạy chương trình."
+    },
+    {
+      "title": "WORDPRESS LÀ GÌ?",
+      "date": "02/22/2023  01:36:22",
+      "content": "WordPress là một phần mềm nguồn mở (Open Source Software 1) được viết bằng ngôn ngữ lập trình website PHP và sử dụng hệ quản trị cơ sở dữ liệu MySQL; cũng là bộ đôi ngôn ngữ lập trình website thông dụng nhất hiện tại. WordPress được ra mắt lần đầu tiên vào ngày 27/5/2003 bởi tác giả Matt Mullenweg và Mike Little. Hiện nay WordPress được sở hữu và phát triển bởi công ty Automattic có trụ sở tại San Francisco, California thuộc hợp chủng quốc Hoa Kỳ.",
+      "content_type": "WordPress là một phần mềm nguồn mở (Open Source Software 1) được viết bằng ngôn ngữ lập trình website PHP và sử dụng hệ quản trị cơ sở dữ liệu MySQL; cũng là bộ đôi ngôn ngữ lập trình website thông dụng nhất hiện tại. WordPress được ra mắt lần đầu tiên vào ngày 27/5/2003 bởi tác giả Matt Mullenweg và Mike Little. Hiện nay WordPress được sở hữu và phát triển bởi công ty Automattic có trụ sở tại San Francisco, California thuộc hợp chủng quốc Hoa Kỳ.",
+      "img": [
+        "https://res.cloudinary.com/dw6wgytc3/image/upload/v1677004583/ECMA/tkuafgozxpwohuctwj81.jpg"
+      ],
+      "categoryId": "6",
+      "desc": "WordPress là một mã nguồn mở bằng ngôn ngữ PHP để hỗ trợ tạo blog cá nhân, và nó được rất nhiều người sử dụng ủng hộ về tính dễ sử dụng, nhiều tính năng hữu ích. Qua thời gian, số lượng người sử dụng tăng lên, các cộng tác viên là những lập trình viên cũng tham gia đông đảo để phát triển mã nguồn WordPress có thêm những tính năng tuyệt vời. Và cho đến thời điểm viết bài này là 2015, WordPress đã được xem như là một hệ quản trị nội dung (CMS – Content Management System 2) vượt trội để hỗ trợ người dùng tạo ra nhiều thể loại website khác nhau như blog, website tin tức/tạp chí, giới thiệu doanh nghiệp, bán hàng – thương mại điện tử, thậm chí với các loại website có độ phức tạp cao như đặt phòng khách sạn, thuê xe, đăng dự án bất động sản,…vâng…vâng…Hầu như mọi hình thức website với quy mô nhỏ và vừa đều có thể triển khai trên nền tảng WordPress.  Nhưng như thế không có nghĩa là WordPress chỉ thích hợp với các dự án nhỏ, mà hiện nay có tới khoảng 25% website trong danh sách 100 website lớn nhất thế giới sử dụng mã nguồn WordPress. Ví dụ như trang tạp chí TechCrunch, Mashable, CNN, BBC America, Variety, Sony Music, MTV News, Bata, Quartz,…rất nhiều không thể kể hết được.",
+      "id": 6
+    },
+    {
+      "title": "vu dinh quan",
+      "date": "02/22/2023  04:11:17",
+      "content": "ádfasdf",
+      "content_type": "ádfasdfas",
+      "img": [
+        "https://res.cloudinary.com/dw6wgytc3/image/upload/v1677013877/ECMA/fykbf4ed3brqu7bt26e5.jpg"
+      ],
+      "categoryId": "1",
+      "id": 7,
+      "desc": "ádfasdfasdf"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "CSS"
+    },
+    {
+      "id": "2",
+      "name": "PHP"
+    },
+    {
+      "id": "3",
+      "name": "HTML"
+    },
+    {
+      "id": "4",
+      "name": "JS"
+    },
+    {
+      "id": "5",
+      "name": "JAVA"
+    },
+    {
+      "id": "6",
+      "name": "WORDPRESS"
+    }
+  ],
+  "team": [
+    {
+      "name": "Đào Xuân Mai",
+      "desc": "Thành Viên",
+      "link": [
+        {
+          "id": "git",
+          "name": "URL Github",
+          "icon": "<i class='fa-brands fa-github'></i>",
+          "path": "https://github.com/mailuoicode"
+        },
+        {
+          "id": "fb",
+          "name": "URL Facebook",
+          "icon": "<i class='fa-brands fa-facebook'></i>",
+          "path": "https://www.facebook.com/profile.php?id=100034360840532"
+        },
+        {
+          "id": "inta",
+          "name": "URL Intagram",
+          "icon": "<i class='fa-brands fa-instagram'></i>",
+          "path": "https://www.instagram.com/immaipr0/"
+        }
+      ],
+      "img": [
+        "https://res.cloudinary.com/dw6wgytc3/image/upload/v1676966641/ECMA/wx6khewzsjbc2yeyksxs.jpg"
+      ],
+      "id": 1
+    },
+    {
+      "name": "Vũ Thị Nhung",
+      "desc": "Thành Viên",
+      "img": [
+        "https://res.cloudinary.com/dw6wgytc3/image/upload/v1676966465/ECMA/yeqbmtcbujmc5rwhmtq0.jpg"
+      ],
+      "link": [
+        {
+          "id": "fb",
+          "name": "URL Facebook",
+          "icon": "<i class='fa-brands fa-facebook'></i>",
+          "path": "https://www.facebook.com/profile.php?id=100036219413369"
+        },
+        {
+          "id": "git",
+          "name": "URL Github",
+          "icon": "<i class='fa-brands fa-github'></i>",
+          "path": "https://github.com/vuthinhung10052003"
+        },
+        {
+          "id": "inta",
+          "name": "URL Intagram",
+          "icon": "<i class='fa-brands fa-instagram'></i>",
+          "path": "https://www.instagram.com/vuthinhung03/"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "Vũ Đình Quân",
+      "desc": "Trưởng Nhóm",
+      "img": [
+        "https://res.cloudinary.com/dw6wgytc3/image/upload/v1676966513/ECMA/is2dwmawzkwfm0iwedmk.jpg"
+      ],
+      "link": [
+        {
+          "id": "fb",
+          "name": "URL Facebook",
+          "icon": "<i class='fa-brands fa-facebook'></i>",
+          "path": ""
+        },
+        {
+          "id": "git",
+          "name": "URL Github",
+          "icon": "<i class='fa-brands fa-github'></i>",
+          "path": "https://www.facebook.com/vudinhquan.31102002"
+        },
+        {
+          "id": "inta",
+          "name": "URL Intagram",
+          "icon": "<i class='fa-brands fa-instagram'></i>",
+          "path": "https://www.instagram.com/quandisquerd/"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "Nguyễn Văn Phong",
+      "desc": "Thành Viên",
+      "img": [
+        "https://res.cloudinary.com/dw6wgytc3/image/upload/v1676966595/ECMA/ftwgrkmgeuhgwvrmd45q.jpg"
+      ],
+      "link": [
+        {
+          "id": "fb",
+          "name": "URL Facebook",
+          "icon": "<i class='fa-brands fa-facebook'></i>",
+          "path": "https://www.facebook.com/profile.php?id=100050387387970"
+        },
+        {
+          "id": "git",
+          "name": "URL Github",
+          "icon": "<i class='fa-brands fa-github'></i>",
+          "path": "https://github.com/Phong25102003"
+        },
+        {
+          "id": "inta",
+          "name": "URL Intagram",
+          "icon": "<i class='fa-brands fa-instagram'></i>",
+          "path": "https://www.instagram.com/phonglun.033/?fbclid=IwAR1kVYiMexZ3guYmX0KI0-_kNHpqyXgf0BTrJ51y5Fxh9AZNnCra21M7LWs"
+        }
+      ],
+      "id": 4
+    }
+  ],
+  "user": [
+    {
+      "name": "Vu Dinh Quan",
+      "address": "Tu Ky-Hai Duong",
+      "Education": "Student",
+      "school": "Cao dang FPT",
+      "email": "quanvdph19781@fpt.edu.vn",
+      "phone": "0972620091",
+      "date": "31-10-2002",
+      "img": [
+        "https://res.cloudinary.com/dw6wgytc3/image/upload/v1676927349/ECMA/hu0pabnqdzajbjwgggco.jpg"
+      ],
+      "id": "1"
+    }
+  ],
+  "skill": [
+    {
+      "name": "Javascript"
+    },
+    {
+      "name": "PHP"
+    },
+    {
+      "name": "Java"
+    },
+    {
+      "name": "HTML"
+    },
+    {
+      "name": "CSS"
+    },
+    {
+      "name": "WORDPRESS"
+    }
+  ],
+  "login": [
+    {
+      "user": "quan",
+      "pass": "123456"
+    }
+  ],
+  "listMenu": [
+    {
+      "name": "List Post",
+      "path": "/listpost"
+    },
+    {
+      "name": "List Categories",
+      "path": "/listcat"
+    },
+    {
+      "name": "Add Post",
+      "path": "/addpost"
+    },
+    {
+      "name": "Add Categories",
+      "path": "/addcat"
+    },
+    {
+      "name": "Add Team",
+      "path": "/addteam"
+    },
+    {
+      "name": "List Team",
+      "path": "/listteam"
+    },
+    {
+      "name": "List Project",
+      "path": "/listproject"
+    },
+    {
+      "name": "Add Project",
+      "path": "/addproject"
+    }
+  ],
+  "nut": [
+    {
+      "name": "privew user",
+      "path": "/user"
+    },
+    {
+      "name": "data management",
+      "path": "/listpost"
+    }
+  ],
+  "project": [
+    {
+      "name": "nguyễn văn phong ",
+      "time": "02/22/2023  00:53:03",
+      "mota": "tao là ngueyexn văn phogn ",
+      "img": [
+        "https://res.cloudinary.com/dw6wgytc3/image/upload/v1677001983/ECMA/zshrxji3vq1rtqjgfeok.jpg"
+      ],
+      "desc": "Day laf project 1",
+      "technology": [
+        {
+          "name": "Javascript",
+          "icon": "<i class='fa-brands fa-js'></i>"
+        },
+        {
+          "name": "HTML",
+          "icon": "<i class='fa-brands fa-html5'></i>"
+        },
+        {
+          "name": "CSS",
+          "icon": "<i class='fa-brands fa-css3-alt'></i>"
+        }
+      ],
+      "id": "2"
+    },
+    {
+      "name": "Vu Dinh Quan",
+      "time": "02/22/2023  01:01:57",
+      "mota": "đây là nguyễn văn phong ",
+      "img": [
+        "https://res.cloudinary.com/dw6wgytc3/image/upload/v1677002519/ECMA/iin15vmbcmbrvtexu0la.jpg"
+      ],
+      "desc": "dfsgdgsdf",
+      "technology": [
+        {
+          "name": "Javascript",
+          "icon": "<i class='fa-brands fa-js'></i>"
+        },
+        {
+          "name": "HTML",
+          "icon": "<i class='fa-brands fa-html5'></i>"
+        },
+        {
+          "name": "CSS",
+          "icon": "<i class='fa-brands fa-css3-alt'></i>"
+        }
+      ],
+      "id": "sfsSvlw"
+    }
+  ]
+}
